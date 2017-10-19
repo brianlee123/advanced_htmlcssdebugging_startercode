@@ -23,3 +23,6 @@ img {
 .red-text {
   color: #d31616;
 }
+#cat{
+  max-width: 50%;
+}
